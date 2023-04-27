@@ -1,0 +1,16 @@
+asgiref==3.6.0
+async-timeout==4.0.2
+certifi==2022.12.7
+channels==3.0.4
+channels-redis==4.1.0
+distlib==0.3.6
+django==4.0.0
+filelock==3.12.0
+msgpack==1.0.5
+pipenv==2023.4.20
+platformdirs==3.4.0
+redis==4.5.4
+sqlparse==0.4.4
+tzdata==2023.3
+virtualenv==20.22.0
+virtualenv-clone==0.5.7
